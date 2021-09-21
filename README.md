@@ -1,4 +1,5 @@
-# Página WEB com HTML e CSS (DIO)
+# Desafio de GIT/Github 
+Página WEB com HTML e CSS (DIO)
 Task do curso da DIO sobre html e css
 
 * Pasta com fotos da página web, arquivo css e arquivo html
